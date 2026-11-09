@@ -170,9 +170,11 @@ import * as status_frozen from "./status/frozen.js";
 import * as status_haste from "./status/haste.js";
 import * as status_petrified from "./status/petrified.js";
 import * as status_poisoned from "./status/poisoned.js";
+import * as status_power_aura from "./status/power-aura.js";
 import * as status_rage from "./status/rage.js";
 import * as status_sleep from "./status/sleep.js";
 import * as status_slowed from "./status/slowed.js";
+import * as status_storm_aura from "./status/storm-aura.js";
 import * as status_stunned from "./status/stunned.js";
 import * as nature_acid_splash from "./nature/acid-splash.js";
 import * as nature_boulder from "./nature/boulder.js";
@@ -418,9 +420,11 @@ export const effects = {
   "status/haste": status_haste,
   "status/petrified": status_petrified,
   "status/poisoned": status_poisoned,
+  "status/power-aura": status_power_aura,
   "status/rage": status_rage,
   "status/sleep": status_sleep,
   "status/slowed": status_slowed,
+  "status/storm-aura": status_storm_aura,
   "status/stunned": status_stunned,
   "nature/acid-splash": nature_acid_splash,
   "nature/boulder": nature_boulder,

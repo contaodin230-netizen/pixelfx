@@ -1,6 +1,6 @@
 # Catalog
 
-244 effects in 21 categories. Every one is a file in
+246 effects in 21 categories. Every one is a file in
 `src/fx/<category>/<name>.js`; render any of them with `node tools/render.mjs <id> --gif`.
 
 ## moves
@@ -277,9 +277,11 @@ burning, frozen, poisoned, asleep.
 | Haste | `status/haste` | loop 1.2s | 100×56 | Sped up: striped after-images stream out behind, speed lines whip past, dust kicks off the heels and the leading edge catches the wind. Faces right. |
 | Petrified | `status/petrified` | one-shot 3.8s | 120×74 | Turned to stone: grey creeps up from the feet behind a crackling edge that spits grit, the statue holds, cracks run through it, and it bursts into tumbling chunks and dust. |
 | Poisoned | `status/poisoned` | loop 1.6s | 72×64 | Sick to the bone: green rolls up the body in waves, dark veins creep from a wound, toxic sweat drips and hisses; every 0.8 s it wobbles, blisters pop and a ring pulses out. |
+| Power aura | `status/power-aura` | loop 2.4s | 96×96 | A calm, steady aura: a soft cocoon of energy wraps the whole body, a bright rim hugs it, motes circle round it on tilted rings and a ring of light turns on the floor. |
 | Rage | `status/rage` | loop 1.2s | 80×80 | Seething: the body judders on every heartbeat, an anger mark throbs at the temple, eyes burn, steam jets off the head, stress lines flash out and the floor cracks hot underfoot. |
 | Sleep | `status/sleep` | loop 2.4s | 60×82 | Fast asleep: eyes shut, soft outlined Zs float up off the head one after another, swaying and growing as they rise, dream motes drift, a slow breathing glow. |
 | Slowed | `status/slowed` | loop 2.4s | 64×76 | Dragged through time: a glassy clock dial behind the head ticks round in heavy steps, flashing with each, while drops sink in slow motion and spread slow rings. |
+| Storm aura | `status/storm-aura` | loop 2.4s | 96×96 | A live current traces the body's outline, pulses race round it, small arcs jump off, glowing orbs circle the body and stars twinkle round it. |
 | Stunned | `status/stunned` | loop 2s | 60×64 | Seeing stars: three spinning stars and two little birds circle the head on a tilted ring, ducking behind it and sweeping round in front, trailing glitter. |
 
 ## nature
